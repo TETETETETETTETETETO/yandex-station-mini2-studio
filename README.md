@@ -15,7 +15,6 @@
 
 Полезные ссылки и инструкции сообщества:
 - 📖 **[HackAlice Wiki (hackalice.me)](https://hackalice.me)** — главная база знаний сообщества по взлому, получению Root и активации ADB на Яндекс Станциях
-- 📖 [Wiki репозитория: Настройка ADB](https://github.com/TETETETETETTETETETO/yandex-station-mini2-studio/wiki)
 - **Быстрая справка по прошивке:**
   - В прошивке Станции встроены скрипты `/system/vendor/quasar/activate_adb.sh` и `/system/vendor/quasar/activate_aux_as_usb.sh` (вход в ADB через разъем AUX, переключенный в режим USB).
   - Сетевой ADB активируется созданием маркерного файла: `touch /data/quasar/activate_network_adb`.
